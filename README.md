@@ -15,14 +15,11 @@
 
 ---
 
-### 浏览器 F12 辅助脚本
+### httperrors.py
+### export_domains.py
 
-- `httperrors.py`
-- `export_domains.py`
-
----
-
-## 🛠 使用场景
+**功能说明**：
+浏览器F12辅助脚本
 
 适用于需要频繁切换网络配置、调试 HTTP 错误或导出浏览器域名信息的开发与运维工作。
 
