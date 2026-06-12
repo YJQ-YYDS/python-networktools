@@ -1,4 +1,4 @@
-# python-networktools
+# python-changenetwork
 
 > 快速修改网卡信息的一个脚本集合
 
@@ -28,6 +28,6 @@
 
 ---
 
-## 📄 许可证
+## 📄 贡献来源
 
-（可根据实际情况补充，例如 MIT、GPL 等）
+（DeepSeek）
